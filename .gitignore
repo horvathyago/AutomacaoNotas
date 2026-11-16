@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+notas_entrada/*
+notas_processadas/*
+relatorios/*
+
+!.gitkeep
